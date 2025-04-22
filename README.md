@@ -1,4 +1,4 @@
-## 🧠 Project: Predicting Customer Subscription Using Classification Models
+##  Project: Predicting Customer Subscription Using Classification Models
 
 In this project, I developed a classification model to predict whether a client will subscribe to a term deposit based on data collected from direct marketing campaigns. The dataset, provided by a Portuguese banking institution, contains rich customer information, including demographics, financial status, and campaign interaction history.
 
@@ -6,7 +6,7 @@ This type of predictive modeling is incredibly valuable in the financial service
 
 ---
 
-### 📊 Dataset Description
+###  Dataset Description
 
 The dataset includes **numerical and categorical** variables for over 40,000 client records, with features such as:
 
@@ -15,11 +15,11 @@ The dataset includes **numerical and categorical** variables for over 40,000 cli
 - **Marketing Campaign Details**: Contact method, last contact duration, campaign frequency
 - **Outcome Variables**: Past campaign results and the final target — whether the client subscribed (`y`)
 
-📁 Source: UCI Machine Learning Repository (Bank Marketing Dataset)
+ Source: UCI Machine Learning Repository (Bank Marketing Dataset)
 
 ---
 
-### 🛠️ Approach
+###  Approach
 
 1. **Data Preprocessing**:  
    - Encoded categorical variables (e.g., job, education)  
@@ -38,7 +38,7 @@ The dataset includes **numerical and categorical** variables for over 40,000 cli
 
 ---
 
-### 🎯 Outcome
+###  Outcome
 
 By the end of the project, I successfully built and validated a classification model that can effectively predict client subscription behavior. This project demonstrates my ability to handle real-world datasets, apply appropriate machine learning techniques, and extract actionable insights for decision-making in a business environment.
 
